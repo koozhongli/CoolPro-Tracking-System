@@ -4,11 +4,11 @@ Product Name:
 
 Contributors:
 
-1. Project Manager/System Architect:
+1. Project Manager/System Architect: Koo Zhong Li
 
-2.	Database Engineer/Backend Specialist:
+2.	Database Engineer/Backend Specialist: Ooi Jian Kun
 
-3.	UI/UX Designer/Tester:
+3.	UI/UX Designer/Tester: Teh Wei Meng
 
 Functional Requirements (FR):
 
